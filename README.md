@@ -51,8 +51,12 @@ This project was part of my assignment from the computer vision course i am taki
 ### Network Visualization and Performance:
 
 - The model achieved an accuracy of 78 %
+## visualization of output layer 
+![download 1](https://github.com/sankalp-rajeev/hand-written-digit-classification/assets/81537336/085778aa-ab4b-47b1-a171-66700c2c76b2)
 
-![download 1](C:\Computer vision projects\hand-written-digit-classification\download 1.png)
+## Confusion Matrix generated:
+![download 3](https://github.com/sankalp-rajeev/hand-written-digit-classification/assets/81537336/dbf15be1-95a1-48ef-9664-fcbdb3d58a3d)
+
 
 ## Insights & Takeaways
 
