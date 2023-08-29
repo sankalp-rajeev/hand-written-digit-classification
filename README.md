@@ -48,6 +48,12 @@ This project was part of my assignment from the computer vision course i am taki
 - **Train Models with NIST36 (PyTorch) [0 pts]**
   - Leveraged PyTorch's capabilities to train models on the NIST36 dataset, appreciating the simplification and speedup offered by the framework.
 
+### Network Visualization and Performance:
+
+- The model achieved an accuracy of 78 %
+
+![download 1](C:\Computer vision projects\hand-written-digit-classification\download 1.png)
+
 ## Insights & Takeaways
 
 - Gained a profound understanding of neural networks, from the basics of activation functions to the complexities of forward and backward propagation.
