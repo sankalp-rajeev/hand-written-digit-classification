@@ -14,38 +14,38 @@ This project was part of my assignment from the computer vision course i am taki
 
 ## Assignment Breakdown
 
-### Part I: Implement a Fully-connected Neural Network [100 pts]
+### Part I: Implement a Fully-connected Neural Network 
 
-- **Network Initialization (Xavier) [0 pts]**
+- **Network Initialization (Xavier)**
   - Explored and implemented Xavier initialization to ensure weights are optimized for the activation function, leading to a more efficient training process.
 
-- **Sigmoid Activation Function [10 pts]**
+- **Sigmoid Activation Function**
   - Designed and integrated the Sigmoid function, a foundational activation function, to introduce non-linear properties to the model.
 
-- **Softmax Function [15 pts]**
+- **Softmax Function**
   - Implemented the Softmax function to transform the network's raw output scores into probabilities, aiding in multi-class classification.
 
-- **Loss Function (Cross-Entropy) [15 pts]**
+- **Loss Function (Cross-Entropy)**
   - Incorporated the Cross-Entropy loss function, ensuring a measure of the difference between the network's predictions and the actual labels.
 
-- **Forward Pass [20 pts]**
+- **Forward Pass**
   - Implemented the forward propagation mechanism, allowing the network to make predictions based on input data and initialized weights.
 
-- **Gradient Computation [20 pts]**
+- **Gradient Computation**
   - Computed gradients essential for the backward propagation step, enabling the optimization of the model's weights.
 
-- **Backward Propagation [0 pts]**
+- **Backward Propagation**
   - Orchestrated the backward pass, a vital process where the network learns by adjusting its weights based on the computed gradients.
 
-- **Train Models with NIST36 [20 pts]**
+- **Train Models with NIST36**
   - With all the components in place, trained the neural network on the NIST36 dataset, witnessing the model learn and improve its accuracy over iterations.
 
-### Part II: PyTorch for Digit Classification [0 pts]
+### Part II: PyTorch for Digit Classification
 
-- **PyTorch Installation [0 pts]**
+- **PyTorch Installation**
   - Transitioned to the PyTorch framework, experiencing the ease of setting up and running models on this platform.
 
-- **Train Models with NIST36 (PyTorch) [0 pts]**
+- **Train Models with NIST36 (PyTorch)**
   - Leveraged PyTorch's capabilities to train models on the NIST36 dataset, appreciating the simplification and speedup offered by the framework.
 
 ### Network Visualization and Performance:
